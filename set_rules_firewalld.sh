@@ -1,4 +1,8 @@
-#!/bin/basn
+#!/bin/bash
+#
+#	Author  = Mxmzs
+#	License = MIT
+#
 
 echo "Opening $port/$protocol"
 firewall-cmd --add-port "$port"/"$protocol"
