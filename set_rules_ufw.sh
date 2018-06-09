@@ -1,4 +1,8 @@
 #!/bin/bash
+#
+#	Author  = Mxmzs
+#	License = MIT
+#
 
 ufw_dir="/etc/default/ufw"
 before_rules_dir="/etc/ufw/before.rules"
