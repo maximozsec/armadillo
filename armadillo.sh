@@ -1,4 +1,8 @@
 #!/bin/bash
+#
+#	Author  = Mxmzs
+#	License = MIT
+#
 
 # root check
 if [ $EUID -ne 0 ]
